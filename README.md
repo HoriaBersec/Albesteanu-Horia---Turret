@@ -24,13 +24,17 @@ This project im going to try to make an arduino turret that can shoot and be aim
 #Shooting Mechanism 🏹
 
 The 2 DC motors and the solenoid motor:
+
 ![C1](https://github.com/user-attachments/assets/4fb0895f-8975-4875-b22e-36c459f45e5d)
 
 Adding the 3D printed flywheels on top of the 2 DC motors:
+
 ![C2](https://github.com/user-attachments/assets/424a8888-bc9d-47b8-bab6-f8e6463240eb)
 
 And it's honestly not that deep:
-![H1](https://github.com/user-attachments/assets/088d478d-47b8-40e2-962a-08105a65db91)
+
+![H1](https://github.com/user-attachments/assets/ed48cc25-6789-4606-9231-fd8a861c66b1)
+
 
 
 
