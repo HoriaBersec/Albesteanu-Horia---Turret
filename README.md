@@ -1,4 +1,5 @@
 # Arduino-Turret
+DISCLAIMER: this is still a work in progess, it can be subject to changes.
 
 Project Overview 🌟
 
@@ -35,6 +36,9 @@ And it's honestly not that deep:
 
 ![H1](https://github.com/user-attachments/assets/ed48cc25-6789-4606-9231-fd8a861c66b1)
 
+
+
+#Aiming Mechanism
 
 
 
