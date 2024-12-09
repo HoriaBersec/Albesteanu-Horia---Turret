@@ -1,16 +1,42 @@
 # Arduino-Turret
 
-To build the turret, I will use the following hardware components:
+Project Overview 🌟
 
-Arduino Uno (or any other 5V compatible model)
-2x Servo motors (for vertical movement)
-2x DC motors (for launching projectiles)
-1x Motor for left-right movement (could be a DC motor or stepper motor)
-1x Solenoid (for pushing projectiles into the motors that will launch them)
-DC motor driver (e.g., L298N or L293D)
-Stepper motor driver (if applicable)
-Power supplies (for both Arduino and motors)
-3D printer (to create the turret housing and projectiles)
-Buttons or potentiometers (for manual control, if needed)
-Resistors, transistors, diodes (for protection and circuit control)
-Connecting wires and breadboard
+This project im going to try to make an arduino turret that can shoot and be aimed via a joystick.
+
+#Hardware Design
+
+#Components 🔩
+
+    -Arduino UNO
+    -breadboard
+    
+    -2x servo motors
+    -2x DC motors
+    -1X solenoid motor
+    -1x stepper motor
+
+    -battery holder for 4 AA batteries
+    -4 AA batteries 🤯
+    -resistors
+    -wires
+
+#Shooting Mechanism 🏹
+
+The 2 DC motors and the solenoid motor:
+![C1](https://github.com/user-attachments/assets/4fb0895f-8975-4875-b22e-36c459f45e5d)
+
+Adding the 3D printed flywheels on top of the 2 DC motors:
+![C2](https://github.com/user-attachments/assets/424a8888-bc9d-47b8-bab6-f8e6463240eb)
+
+And it's honestly not that deep:
+![H1](https://github.com/user-attachments/assets/088d478d-47b8-40e2-962a-08105a65db91)
+
+
+
+
+
+
+
+
+
