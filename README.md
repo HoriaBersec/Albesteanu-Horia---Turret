@@ -1,4 +1,4 @@
-# Albesteanu-Horia---Turret
+# Arduino-Turret
 
 To build the turret, I will use the following hardware components:
 
